@@ -1,1 +1,0 @@
-import{d as a,o as s,c as p,a as e,e as c,h as n,z as l}from"./index-5fcdbd77.js";const r={class:"pc-k-v-pair"},o={class:"pc-k-v-pair-name"},i={class:"pc-k-v-pair-value"},m=a({__name:"PcKVPair",props:{name:{},value:{}},setup:a=>(m,t)=>(s(),p("span",r,[e("span",o,c(a.name)+":",1),e("span",i,[n(m.$slots,"default",{},()=>[l(c(a.value),1)])])]))});export{m as _};

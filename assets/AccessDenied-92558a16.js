@@ -1,1 +1,0 @@
-import{_ as e,o as n,c as t,a as i}from"./index-5fcdbd77.js";const s={style:{display:"flex","flex-direction":"column","align-items":"center","justify-content":"center",height:"100vh"}};const l=e({},[["render",function(e,l){return n(),t("div",s,[...l[0]||(l[0]=[i("div",null,"現在のユーザーにはアクセス権限がありません",-1),i("div",null,"管理者に連絡してください",-1)])])}]]);export{l as default};
