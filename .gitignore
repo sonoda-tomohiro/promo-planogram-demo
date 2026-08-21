@@ -1,0 +1,63 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this is
+# not listed by default. But if you do not use VS Code, you might want to
+# uncomment the following to ignore the folder from your repository:
+# .vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/.symlinks/
+**/macos/.symlinks/
+**/linux/.symlinks/
+**/windows/.symlinks/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Android Gradle
+android/.gradle/
+android/captures/
+android/local.properties
+android/GeneratedPluginRegistrant.java
+
+# Data and credentials
+*.csv
+assets/service_account.json
+.claude/
+
+# Scripts credentials and environments
+scripts/*.json
+scripts/venv/
+scripts/folder_id.txt

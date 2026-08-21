@@ -1,0 +1,1 @@
+const o=o=>{const e={},{title:t,loading:l,teleport:i,closable:r,coverGroupName:a}=o;return void 0!==t&&(e.title=t),void 0!==l&&(e.loading=l),void 0!==i&&(e.teleport=i),void 0!==r&&(e.closable=r),void 0!==a&&(e.coverGroupName=a),e};export{o as s};

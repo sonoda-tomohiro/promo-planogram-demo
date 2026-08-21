@@ -1,0 +1,1 @@
+:where(.pc-prompt-box){color:var(--text-accent);font:var(--font-m-bold)}.pc-prompt-box{min-width:fit-content;min-height:fit-content;display:flex;gap:var(--xxs);align-items:center;flex:0 0 auto}.pc-prompt-box .pc-prompt-messages{display:flex;flex-direction:column}.pc-prompt-box .pc-prompt-messages>span{white-space:pre}

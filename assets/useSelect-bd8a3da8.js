@@ -1,0 +1,1 @@
+const e=(e,r,t=!0)=>{const a=new Set(r),n=Array.isArray(r);if(!t)return n?a.has(e)?[]:[e]:a.has(e)?new Set:new Set([e]);const s=a.has(e);return a.add(e),s&&a.delete(e),n?Array.from(a):a};export{e as d};

@@ -1,0 +1,1 @@
+:where(.pc-k-v-pair){display:flex;align-items:center;justify-content:flex-start;gap:var(--xxs);color:var(--text-primary)}:where(.pc-k-v-pair-name){font-weight:var(--font-weight-bold)}
