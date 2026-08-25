@@ -1,0 +1,1 @@
+import{a2 as e}from"./index-2596e712.js";const a=e([{value:0,label:"既存",type:"secondary",theme:0},{value:1,label:"新店",type:"primary",theme:1},{value:2,label:"改装",type:"primary",theme:1}]);export{a as s};
