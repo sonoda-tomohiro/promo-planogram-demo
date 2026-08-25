@@ -1,0 +1,1 @@
+import{d as s,b as a,b6 as o,o as n,c as i,n as t,i as e,u as d}from"./index-bb0f5684.js";const c=s({__name:"LoadingIcon",props:{size:{default:40},width:{default:4}},setup(s){const c=s,l=a(()=>o(+c.size,+c.width));return(s,a)=>(n(),i("div",t(e({class:"common-icon loading-icon",style:d(l)})),null,16))}});export{c as _};
