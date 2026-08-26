@@ -1,0 +1,1 @@
+import{d as a,o as s,c,h as e,q as t}from"./index-42b71e41.js";const o=a({__name:"PcCard",props:{active:{type:Boolean,default:()=>!1}},setup:a=>(o,d)=>(s(),c("div",{class:t(["pc-card",{"pc-card-active":a.active}])},[e(o.$slots,"default")],2))});export{o as _};

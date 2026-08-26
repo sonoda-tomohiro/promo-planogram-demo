@@ -1,1 +1,0 @@
-import{b as e,B as s}from"./index-8fbb6128.js";const t=()=>{const t=s(0);return Object.assign(e({get:()=>!!t.value,set:e=>{const s=t.value+[-1,1][+e];t.value=Math.max(s,0)}}),{reset:()=>{t.value=0}})};export{t as u};
