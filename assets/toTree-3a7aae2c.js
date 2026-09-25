@@ -1,0 +1,1 @@
+const e=e=>{var i;const n={};for(const r of e){const{id:e,pid:d,name:t,...c}=r;n[d]??(n[d]={children:[],id:d,name:"すべて",title:"すべて"}),(i=n[d]).children??(i.children=[]),n[e]=Object.assign(n[e]??{},{id:e,pid:d,name:t,title:t},c),n[d].children.push(n[e]),n[d].children.sort((e,i)=>{var n;return null==(n=e.id)?void 0:n.localeCompare(i.id)})}return n};export{e as a};
